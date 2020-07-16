@@ -5,8 +5,8 @@ Programador Junior | ETL | Business Intelligence| Scrum |
 Sou Novo na area da programação pois venho de areas de relatorios e base de dados, porem tenho muita vontade de aprender e sempre querer coisas novas e aprender sempre mais, pois acredito que nunca é tarde para começar uma coisa se voce realmente se sente bem com isso.
 
  <𝚌𝚘𝚍𝚎𝚛𝚜>! 
- <img src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="100px">
- </𝚌𝚘𝚍𝚎𝚛𝚜>! 
+ <br><img src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="100px">
+  
 
 ## ⚡ Tecnologias
 
