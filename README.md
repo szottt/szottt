@@ -19,3 +19,4 @@ Sou Novo na area da programação pois venho de areas de relatorios e base de da
 [![Linkedin Szot](https://img.shields.io/badge/-IgorSzot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/szottt//) 
 
 
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
