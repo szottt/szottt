@@ -15,5 +15,5 @@ Sou Novo na area da programação pois venho de areas de relatorios e base de da
 
 ## 📫 Contact Me
 
-[![Twitter szottt](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/szotttt) 
-[![Linkedin Szot](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/szottt//) 
+[![Twitter szottt](https://img.shields.io/badge/-@szottt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/szotttt) 
+[![Linkedin Szot](https://img.shields.io/badge/-IgorSzot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/szottt//) 
