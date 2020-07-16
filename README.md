@@ -2,9 +2,9 @@
 Programador Junior | ETL | Business Intelligence| Scrum |
 
 ## 🧐 Sobre
-Sou Novo na area da programação pois venho de areas de relatorios e base de dados, porem tenho muita vontade de aprender e sempre querer coisas novas e aprender sempre mais, pois acredito que nunca é tarde para começar uma coisa se voce realmente se sente bem com isso.
-
- <𝚌𝚘𝚍𝚎𝚛𝚜>! 
+Prezo, trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender, sempre buscando o meu crescimento profissional, intelectual  e tecnico e assim podendo contribuir com as areas e crescer junto com a empresa. 
+Sou Novo na area da programação, venho de uma area de BI...
+Sou formado em Gestao de TI porem meu mundo é sentar e escrever linha de codigo. <𝚌𝚘𝚍𝚎𝚛𝚜>! 
  <br><img src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" width="200px">
   
 
