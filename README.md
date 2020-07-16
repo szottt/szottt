@@ -1,8 +1,10 @@
 # Igor Szot 😃
-Programador Junior | ETL | Business Intelligence| Scrum | Python
+Programador Junior | ETL | Business Intelligence| Scrum |
 
 ## 🧐 Sobre
 Sou Novo na area da programação pois venho de areas de relatorios e base de dados, porem tenho muita vontade de aprender e sempre querer coisas novas e aprender sempre mais, pois acredito que nunca é tarde para começar uma coisa se voce realmente se sente bem com isso.
+
+ <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 
 ## ⚡ Tecnologias
 
