@@ -1,4 +1,4 @@
-# Igor Szot 😃
+# Igor Szot 🕹🤖
 Programador Junior | ETL | Business Intelligence| Scrum |
 
 ## 🧐 Sobre
