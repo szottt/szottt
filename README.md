@@ -1,5 +1,5 @@
 # Igor Szot 🕹🤖
-Programador Junior | ETL | Business Intelligence| Scrum |
+Programador Junior | ETL | Business Intelligence| Scrum | Python | Linux
 
 ## 🧐 Sobre
 Prezo, trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender, sempre buscando o meu crescimento profissional, intelectual  e tecnico e assim podendo contribuir com as areas e crescer junto com a empresa. 
