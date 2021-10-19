@@ -18,5 +18,4 @@ I'm New in programming, I come from BI...
 
 ## 📫 My contacts
 
-[![Instagram szottt](https://www.instagram.com/szottt/)
 [![Linkedin Szot](https://img.shields.io/badge/-IgorSzot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/szottt//) 
