@@ -1,5 +1,5 @@
 # Igor Szot 🕹🤖
-Programador Junior | ETL | Business Intelligence| Scrum | Python
+Python | AWS | Linux | BigData | Scrum | SQL Developer 
 
 ## 🧐 About
 I value, working as a team, cooperating with everyone and helping in the best way possible, with great satisfaction in teaching and learning, always seeking my professional, intellectual and technical growth and thus being able to contribute to the areas and grow together with the company.
