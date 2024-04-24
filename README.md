@@ -1,7 +1,5 @@
 # Igor Szot 
 
-![snake gif](https://github.com/szottt/szottt/blob/output/github-contribution-grid-snake.gif)
-
 <a href="https://github.com/szottt/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=szottt&rank_icon=github&show_icons=true&theme=dark" />
 </a>
@@ -19,6 +17,9 @@
     <img align="center" alt="Igor-sql" height="30" width="40" src="https://img.icons8.com/nolan/64/sql.png"></img>
     <img align="center" alt="Igor-terraform" height="30" width="40" src="https://img.icons8.com/color/48/terraform.png"></img>
 </div>
+
+##
+![snake gif](https://github.com/szottt/szottt/blob/output/github-contribution-grid-snake.gif)
 
 ## 🧐 About
 
