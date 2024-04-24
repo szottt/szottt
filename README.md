@@ -46,3 +46,5 @@ But it's not just about the technical skills, I'm big on teamwork too.  I'm proa
   <a href="https://www.instagram.com/sztao.py/"><img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1" alt="Instagram"></a>
   <a href="https://twitter.com/sztao_"><img width="48" height="43" src="https://img.icons8.com/ios-filled/50/x.png" alt="x"/></a>
 </div>
+
+![snake gif](https://github.com/szottt/szottt/blob/output/github-contribution-grid-snake.svg)
