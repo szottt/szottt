@@ -1,5 +1,7 @@
 # Igor Szot 
 
+![snake gif](https://github.com/szottt/szottt/blob/output/github-contribution-grid-snake.gif)
+
 <a href="https://github.com/szottt/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=szottt&rank_icon=github&show_icons=true&theme=dark" />
 </a>
